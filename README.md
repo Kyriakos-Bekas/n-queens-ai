@@ -28,19 +28,18 @@ You can access the content of this repository by
 
 2. Downloading the code by clicking : *Code* > *Download ZIP*
 
+![Download Code as ZIP Visual Instructions](https://user-images.githubusercontent.com/74660002/152875739-5b6a15f1-afcd-49b7-b0d9-2d37ce6df56c.png)
+
 ### How to use
 
 Open the command prompt/ integrated terminal and navigate to the path.
 
 In order to execute the program, simply type the following commands:
 
-<pre>
+```
 javac Main.java GeneticAlgorithm.java Chromosome.java
-</pre>
-
-<pre>
 java Main
-</pre>
+```
 
 After that, fill in the prompts with the data that you want to examine and wait for the result.
 
